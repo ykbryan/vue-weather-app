@@ -1,5 +1,7 @@
 # vue-weather
 
+Demo: [link](https://trusting-bohr-4f87dd.netlify.app/)
+
 ## Project setup
 ```
 yarn install
